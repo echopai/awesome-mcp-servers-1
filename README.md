@@ -118,6 +118,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Driflyte](https://github.com/serkan-ozal/driflyte-mcp-server)** - MCP Server for [Driflyte](https://console.driflyte.com). The Driflyte MCP Server exposes tools that allow AI assistants to query and retrieve topic-specific knowledge from recursively crawled and indexed web pages.
 - **[E2B](https://github.com/e2b-dev/mcp-server)** - Run code in secure sandboxes hosted by [E2B](https://e2b.dev)
 - **[ECharts](https://github.com/hustcc/mcp-echarts)** - Generate visual charts using [ECharts](https://echarts.apache.org) with AI MCP dynamically, used for chart generation and data analysis.
+- **[EchoPai](https://github.com/echopai/echopai-mcp)** - Event-driven China equity (A-share) & quantitative research MCP server from [EchoPai](https://echopai.com) with 50 real-time tools: broker reports, analyst attribution, corporate filings, sentiment cycles, limit-up analytics, and concept boards.
 - **[EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - **[EduBase](https://github.com/EduBase/MCP)** - Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities
 - **[eSignatures](https://github.com/esignaturescom/mcp-server-esignatures)** - Contract and template management for drafting, reviewing, and sending binding contracts.
